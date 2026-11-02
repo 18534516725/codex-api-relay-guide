@@ -1,0 +1,47 @@
+{
+  "checked_at": "2026-11-02T06:41:30.087634+00:00",
+  "source": "https://www.nexotoken.net/api/memberships/public-plans",
+  "quota_unit": "platform_virtual_usd",
+  "plans": [
+    {
+      "code": "ai_trial",
+      "name": "体验",
+      "price_cny": "9.9",
+      "regular_price_cny": "9.9",
+      "days": 3,
+      "quota": "60",
+      "concurrency_limit": 20,
+      "trial": true
+    },
+    {
+      "code": "ai_lite",
+      "name": "Lite",
+      "price_cny": "89.1",
+      "regular_price_cny": "99",
+      "days": 30,
+      "quota": "800",
+      "concurrency_limit": 20,
+      "trial": false
+    },
+    {
+      "code": "ai_pro",
+      "name": "Pro",
+      "price_cny": "179.1",
+      "regular_price_cny": "199",
+      "days": 30,
+      "quota": "2000",
+      "concurrency_limit": 20,
+      "trial": false
+    },
+    {
+      "code": "ai_ultra",
+      "name": "Ultra",
+      "price_cny": "359.1",
+      "regular_price_cny": "399",
+      "days": 30,
+      "quota": "4200",
+      "concurrency_limit": 20,
+      "trial": false
+    }
+  ]
+}
