@@ -114,3 +114,7 @@
 官方文档、销售来源及证据边界见 [SOURCES.md](SOURCES.md)。价格快照不会自动刷新，配置示例不包含真实凭证，本文没有修改读者本机文件的自动脚本。2026-11-02 首版，AI 辅助整理。
 
 欢迎在 Issue 中提供可复现的脱敏材料和日期。原创文档采用 [MIT License](LICENSE)，第三方资料保留原有权利。
+
+## 工作区验收
+
+- [Codex / Claude Code 切换 API 后的文件操作验收](./WORKSPACE-ACCEPTANCE.md)
